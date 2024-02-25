@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![activity](http://localhost:5600/#/activity/DESKTOP-D74N752/view/)
+Currently studying at ITMO university at CS program
 
 <!--
 **fefumo/fefumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
