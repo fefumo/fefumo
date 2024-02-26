@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently studying at ITMO university at CS (system application software) program
+Currently studying at ITMO
 
 Links are in bio
 <!--
