@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Currently studying at ITMO university at CS program
+Currently studying at ITMO university at CS (system application software) program
 
+Links are in bio
 <!--
 **fefumo/fefumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
