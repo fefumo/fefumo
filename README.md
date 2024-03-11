@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Currently studying at ITMO
-
-Links are in bio
+ITMO student. Links are in bio.
 <!--
 **fefumo/fefumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
