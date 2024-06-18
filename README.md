@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 ITMO student. Links are in bio.
+
+Tasks for this summer:
+- [ ] switch to arch
+- [ ] start using neovim (at least as a vscode extension)
+- [ ] learn html
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Fuverald?ext=heatmap)
 <!--
 **fefumo/fefumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
