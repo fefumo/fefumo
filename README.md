@@ -6,6 +6,10 @@ Tasks for this summer:
 - [ ] switch to arch
 - [ ] start using neovim (at least as a vscode extension)
 - [ ] learn html
+- [ ] learn binary search
+- [ ] learn bfs
+- [ ] learn dfs
+- [ ] learn sliding algo
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Fuverald?ext=heatmap)
 <!--
