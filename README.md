@@ -11,6 +11,7 @@ Tasks for this summer:
 - [ ] learn bfs
 - [ ] learn dfs
 - [ ] learn sliding algo
+- [ ] swtich from notion to obsidian (I don't think i will be able to transfer all my notes tho :face_with_thermometer: )
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Fuverald?ext=heatmap)
 <!--
