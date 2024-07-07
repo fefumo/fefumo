@@ -4,7 +4,7 @@ ITMO student. Links are in bio.
 
 Tasks for this summer:
 - [ ] switch to arch
-- [ ] start using neovim (at least as a vscode extension)
+- [x] start using neovim (at least as a vscode extension)
 - [ ] try html//js/css (just to be ready for web)
 - [x] try c++
 - [x] learn binary search
