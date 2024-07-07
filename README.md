@@ -8,10 +8,12 @@ Tasks for this summer:
 - [ ] try html//js/css (just to be ready for web)
 - [x] try c++
 - [x] learn binary search
-- [ ] learn trees/binary trees
-- [ ] learn bfs
-- [x] learn dfs
-- [ ] learn sliding algo
+- [ ] try to learn backtracknig algo
+- [ ] try to learn some dynamic type shi)
+- [ ] try to learn trees/binary trees
+- [ ] try to learn bfs
+- [x] try to learn dfs
+- [x] learn sliding algo
 - [ ] swtich from notion to obsidian (I don't think i will be able to transfer all my notes tho :face_with_thermometer: )
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Fuverald?ext=heatmap)
