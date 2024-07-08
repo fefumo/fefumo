@@ -7,13 +7,13 @@ Tasks for this summer:
 - [x] start using neovim (at least as a vscode extension)
 - [ ] try html//js/css (just to be ready for web)
 - [x] try c++
-- [x] learn binary search
+- [x] try to learn binary search
 - [ ] try to learn backtracknig algo
-- [ ] try to learn some dynamic type shi)
+- [ ] try to learn some dynamic programming type shi)
 - [ ] try to learn trees/binary trees
 - [ ] try to learn bfs
 - [x] try to learn dfs
-- [x] learn sliding algo
+- [x] try to learn sliding algo
 - [ ] swtich from notion to obsidian (I don't think i will be able to transfer all my notes tho :face_with_thermometer: )
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Fuverald?ext=heatmap)
