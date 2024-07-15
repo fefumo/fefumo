@@ -4,15 +4,17 @@
 
 ITMO SE student.
 
-![golden-boy-fake-keyboard-programing-coding-paper-book](https://github.com/user-attachments/assets/682e9246-16b1-41a5-859c-6323abdc5628)
+![golden-boy-fake-keyboard-programing-coding-paper-book](https://github.com/user-attachments/assets/1d8ef535-f68f-4ef6-bbe1-f2569cf2c8e4)
+
 
 ## Tasks for this summer:
+#### Overall
 - [ ] switch to arch
 - [x] start using neovim (at least as a vscode extension)
 - [ ] try html//js/css (just to be ready for web)
 - [x] try c/c++
 - [ ] swtich from notion to obsidian (I don't think i will be able to transfer all my notes tho :face_with_thermometer: ) upd: it's possible. will do it in aug.
-  - LeetCode related:
+#### LeetCode&algo related:
   - [x] binary search
   - [ ] backtracknig algo
   - [ ] some dynamic programming type shi
