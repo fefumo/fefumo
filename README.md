@@ -1,20 +1,27 @@
 ### Hi there 👋
 
-ITMO student. Links are in bio.
+![](https://komarev.com/ghpvc/?username=fefumo&style=flat-square&color=blueviolet)
 
-Tasks for this summer:
+ITMO SE student.
+
+![golden-boy-fake-keyboard-programing-coding-paper-book](https://github.com/user-attachments/assets/682e9246-16b1-41a5-859c-6323abdc5628)
+
+## Tasks for this summer:
 - [ ] switch to arch
 - [x] start using neovim (at least as a vscode extension)
 - [ ] try html//js/css (just to be ready for web)
-- [x] try c++
-- [x] try to learn binary search
-- [ ] try to learn backtracknig algo
-- [ ] try to learn some dynamic programming type shi)
-- [ ] try to learn trees/binary trees
-- [ ] try to learn bfs
-- [x] try to learn dfs
-- [x] try to learn sliding algo
-- [ ] swtich from notion to obsidian (I don't think i will be able to transfer all my notes tho :face_with_thermometer: )
+- [x] try c/c++
+- [ ] swtich from notion to obsidian (I don't think i will be able to transfer all my notes tho :face_with_thermometer: ) upd: it's possible. will do it in aug.
+  - LeetCode related:
+  - [x] binary search
+  - [ ] backtracknig algo
+  - [ ] some dynamic programming type shi
+  - [ ] trees/binary trees
+  - [ ] bfs
+  - [x] dfs
+  - [x] sliding algo
+
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Fuverald?ext=heatmap)
 <!--
