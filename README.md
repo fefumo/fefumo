@@ -18,7 +18,7 @@ ITMO SE student.
   - [x] binary search
   - [ ] backtracknig algo
   - [ ] some dynamic programming type shi
-  - [ ] trees/binary trees
+  - [x] trees/binary trees
   - [ ] bfs
   - [x] dfs
   - [x] sliding algo
