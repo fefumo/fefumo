@@ -16,8 +16,9 @@ ITMO SE student.
 - [ ] swtich from notion to obsidian (I don't think i will be able to transfer all my notes tho :face_with_thermometer: ) upd: it's possible. will do it in aug.
 #### LeetCode&algo related:
   - [x] binary search
+  - [x] keep skipping graph problems cuz I hate them so much  
   - [ ] backtracknig algo
-  - [ ] some dynamic programming type shi
+  - [x] some dynamic programming type shi (impossible to actually learn it but ok)
   - [x] trees/binary trees
   - [ ] bfs
   - [x] dfs
