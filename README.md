@@ -9,7 +9,7 @@ ITMO SE student.
 
 ## Tasks for this summer:
 #### Overall
-- [ ] switch to arch
+- [x] switch to arch
 - [x] start using neovim (at least as a vscode extension)
 - [ ] try html//js/css (just to be ready for web)
 - [x] try c/c++
