@@ -13,7 +13,7 @@ ITMO SE student.
 - [x] start using neovim (at least as a vscode extension)
 - [ ] try html//js/css (just to be ready for web)
 - [x] try c/c++
-- [ ] swtich from notion to obsidian (I don't think i will be able to transfer all my notes tho :face_with_thermometer: ) upd: it's possible. will do it in aug.
+- [x] swtich from notion to obsidian (I don't think i will be able to transfer all my notes tho :face_with_thermometer: ) upd: it's possible. will do it in aug.
 #### LeetCode&algo related:
   - [x] binary search
   - [x] keep skipping graph problems cuz I hate them so much  
