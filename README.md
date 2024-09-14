@@ -4,7 +4,7 @@
 
 ITMO SE student.
 
-![golden-boy-fake-keyboard-programing-coding-paper-book](https://github.com/user-attachments/assets/1d8ef535-f68f-4ef6-bbe1-f2569cf2c8e4
+![golden-boy-fake-keyboard-programing-coding-paper-book](https://github.com/user-attachments/assets/1d8ef535-f68f-4ef6-bbe1-f2569cf2c8e4)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Fuverald?ext=heatmap)
 
