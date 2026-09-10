@@ -1,18 +1,35 @@
-### Hi there 👋
+### Sup
 
 ![](https://komarev.com/ghpvc/?username=fefumo&style=flat-square&color=blueviolet)
 
-ITMO SE student.
+ITMO SE student & embedded engineer
 
-![golden-boy-fake-keyboard-programing-coding-paper-book](https://github.com/user-attachments/assets/1d8ef535-f68f-4ef6-bbe1-f2569cf2c8e4)
+<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fefumo" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefumo&show_icons=true&stats_format=bytes&layout=compact&card_width=320" />
-</a>
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/1d8ef535-f68f-4ef6-bbe1-f2569cf2c8e4">
+    <img
+      width="32%"
+      src="https://github.com/user-attachments/assets/1d8ef535-f68f-4ef6-bbe1-f2569cf2c8e4"
+      alt="Profile card"
+    />
+  </a>
+</p>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fefumo&show_icons=true&stats_format=bytes&layout=compact) -->
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Fuverald?ext=heatmap)
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api?username=fefumo&hide_title=true&show_icons=true&include_all_commits=true&theme=material-palenight"
+      alt="GitHub Stats"
+    />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/fuverald/">
+    <img
+      height="180"
+      src="https://leetcard.jacoblin.cool/Fuverald?ext=heatmap"
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
