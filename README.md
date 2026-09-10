@@ -2,13 +2,13 @@
 
 <p align="center">
   <samp>
+    <img src="https://komarev.com/ghpvc/?username=fefumo&style=flat-square&color=blueviolet" alt="Profile views">
+    <br><br>
     ITMO · Software Engineering
     <br>
     embedded systems · low-level programming
-    <br><br>
+    <br>
     C · C++ · Linux
-    <br><br>
-    <img src="https://komarev.com/ghpvc/?username=fefumo&style=flat-square&color=blueviolet" alt="Profile views">
   </samp>
 </p>
 
